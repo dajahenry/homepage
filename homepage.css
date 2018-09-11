@@ -1,6 +1,6 @@
 body {
-	background-image: url(https://www.publicdomainpictures.net/pictures/50000/velka/nature-background-31.jpg)
-	}
+	background-image: url("https://www.publicdomainpictures.net/pictures/50000/velka/nature-background-31.jpg");
+}
 
 .center {
 	display: block;
@@ -9,7 +9,15 @@ body {
 	width: auto;
 }
 
+;
 .text {
- color: white;
+	color: white;
 }
 
+a:hover {
+	font-size: 300%;
+}
+
+a {
+	color: #ffffff;
+}
